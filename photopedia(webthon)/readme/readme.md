@@ -27,7 +27,7 @@ The photograph is evident in nearly every aspect of modern life. As a form of co
 
 ### Screenshot
 
-![](images/photopedia.png)
+![](images/photopedia.jpg)
 
 
 ## My process
